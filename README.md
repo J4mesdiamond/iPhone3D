@@ -1,52 +1,5 @@
 # Create an awesome 3d Landing Page for iphone in React JS
 
-<!--
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Apple-iphone-3d-landing-page-starter-Code?style=social&logo=ApacheSpark&label=Stars&cacheSeconds=3600)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Apple-iphone-3d-landing-page-starter-Code?style=social&logo=KashFlow)&nbsp;&nbsp; -->
-
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow&cacheSeconds=3600)&nbsp;&nbsp;<br />
-
-This repository contains starter code for Apple iphone 3d landing page in ReactJS. <br />
-
-View Demo👇: <br />
-https://apple-iphone14.vercel.app/ <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/cT160dOzpGY <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/cT160dOzpGY?style=social)](https://youtu.be/cT160dOzpGY)<br />
-
-⚠⚠⚠ If you want full code of this website then you can get it from here👇: <br />
-
-https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone <br />
-
-<h3 align="left">▶ Support me via:</h3><br />
-<p><a href="https://www.buymeacoffee.com/CodeBucks"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br><br>
-
-### Images of The 3d landing page Website:
-
-![HOME](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code/blob/main/website-images/Hero-section-desktop.png)
-![Quote](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code/blob/main/website-images/Quote.png)
-![Color](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code/blob/main/website-images/Color-section.png)
-![Pricing](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code/blob/main/website-images/Pricing%20Section.png)
-![HOME-Mobile](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code/blob/main/website-images/Hero-section-mobile.png)
-![Color-Mobile](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code/blob/main/website-images/Color-section-mobile.png)
-![Pricing-Mobile](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code/blob/main/website-images/Pricing%20Section-mobile.png)
-
-### Resources Used in This Project
-
-- ["Apple iPhone 13 Pro Max"](https://skfb.ly/o7nDN) by DatSketch is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/). <br />
-
-- [A15 Chipset Image](https://wccftech.com/a15-bionic-underclocked-cpu-new-gpu-configurations-and-more-details-not-shared/) <br/>
-
-- [Apple Logo for loading screen](https://www.iconfinder.com/icons/104447/apple_logo_icon)
-
-There are 3 videos:
-
-- Video by <a href="https://pixabay.com/users/engin_akyurt-3656355/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=21536">Engin Akyurt</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=21536">Pixabay</a> <br />
-
-- Video by <a href="https://pixabay.com/users/helix_games-17997136/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=49791">Brent Olson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=49791">Pixabay</a> <br />
-
-- Video by <a href="https://pixabay.com/users/vimeo-free-videos-1283884/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=699">Vimeo-Free-Videos</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=699">Pixabay</a> <br />
 
 ### External Libraries used in this project:
 
