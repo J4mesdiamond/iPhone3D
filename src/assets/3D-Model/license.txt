@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple iPhone 15 Pro Max Blue
+* source:	https://sketchfab.com/3d-models/apple-iphone-15-pro-max-blue-bfa9a2fdd14447b6aa1d7c2099a2f482
+* author:	polyman (https://sketchfab.com/Polyman_3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple iPhone 15 Pro Max Blue" (https://sketchfab.com/3d-models/apple-iphone-15-pro-max-blue-bfa9a2fdd14447b6aa1d7c2099a2f482) by polyman (https://sketchfab.com/Polyman_3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
